@@ -37,7 +37,7 @@ Calculated and compared median salaries across regions and job titles.
 - It allowed me to create measures that enhanced the functionality of Pivot Tables and streamlined the data analysis process.
 - I utilized Power Pivot to assign appropriate data types to columns, ensuring accuracy and consistency in calculations and visualizations.
 
-## Salary Dashboard
+# Salary Dashboard
 - The Salary Dashboard, created using advanced Excel techniques, provides a comprehensive overview of top skills required for a specific job, filtered by location and work schedule.
 - It displays the median salary for job titles under the selected conditions, offering valuable insights for job seekers.
 - Most importantly, it highlights the ideal platforms for applying to jobs that meet specific criteria, simplifying the decision-making process.
@@ -47,7 +47,7 @@ Calculated and compared median salaries across regions and job titles.
 
 ![Salary Dashboard](Media/sal_dash.gif)
 
-## Salary Analysis
+# Salary Analysis
 - In this part of the project, I conducted an in-depth analysis of the dataset to uncover relationships between skills and the salaries of job postings.
 - Using advanced exploratory data analysis (EDA) techniques, I identified trends and patterns that provided actionable insights into how specific skills influence earning potential.
 - This analysis was key to understanding which skills are most valuable in the job market and how they correlate with higher salaries.
