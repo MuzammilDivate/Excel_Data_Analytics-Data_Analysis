@@ -13,7 +13,7 @@
 
 ### Do More SKills Mean More Pay?
 
-![Does More skills mean more pay?](Media\Salary_vs_skills.png)
+![Does More skills mean more pay?](Media/Salary_vs_skills.png)
 
 ###  What are the Top Skills for Data Nerds?
 
